@@ -8,3 +8,13 @@ p{
   color: #0000ff;
   font-size:20x;
   font-family:"Lucida Grande";
+
+h1 {
+  color: #e6855e;
+  font-size: 80px;
+  width:200px;
+}
+ img {
+   height:50px;
+   width:70px;
+ }
